@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+ul li {
+    display: inline;
+    border: 5px solid white;
+    margin-right: 10px;
+}
+header{
+    background-color: blue;
+    padding: 50px;
+    margin: 10px;
+    text-align: center;
+}
+ul li a{
+    text-decoration: none;
+    color: wheat;
+    font-family: 'Roboto', sans-serif;
+}
+
+#home {
+    width: 80%;
+    border: 5px solid pink;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+}
+#home img{
+    border:3px solid purple;
+    margin: 0 auto;
+}
+#abot{
+    padding: 50px;
+}
